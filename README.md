@@ -1,6 +1,6 @@
 # Ask.me
 
-Intelligent, geolocation- and natural-language-based search platform for local businesses. The user asks in natural language (e.g. *"sushi open now near me that's pet-friendly"*) and gets back real establishments, filtered through a RAG pipeline — the LLM interprets intent and organizes the response, but **never invents data**: everything comes from the database.
+Intelligent, geolocation and natural-language-based search platform for local businesses. The user asks in natural language (e.g. *"sushi open now near me that's pet-friendly"*) and gets back real establishments, filtered through a RAG pipeline — the LLM interprets intent and organizes the response, but **never invents data**: everything comes from the database.
 
 The product is B2C on the acquisition side (free search) and B2B on monetization: business owners pay for a dashboard (`/dashboard`) to manage their own establishment page.
 
